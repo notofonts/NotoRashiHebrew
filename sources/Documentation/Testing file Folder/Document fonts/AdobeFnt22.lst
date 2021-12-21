@@ -1,0 +1,1088 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/AdobeFnt22.lst
+FileLength:29674
+FileModTime:661789552
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:660148110
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoRashiHebrewUpdate-Black
+FamilyName:Noto Rashi Hebrew Update
+StyleName:Black
+MenuName:Noto Rashi Hebrew Blk
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Noto Rashi Hebrew Update Black
+FamilyNameNative:
+StyleNameNative:Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoRashiHebrewUpdate-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15436
+FileModTime:649533108
+NameArray:0,Mac,4,Noto Rashi Hebrew Update Black
+NameArray:0,Win,1,Noto Rashi Hebrew Blk
+NameArray:0,Win,16,Noto Rashi Hebrew Update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoRashiHebrewUpdate-Medium
+FamilyName:Noto Rashi Hebrew Update
+StyleName:Medium
+MenuName:Noto Rashi Hebrew Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Noto Rashi Hebrew Update Medium
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoRashiHebrewUpdate-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16404
+FileModTime:649533108
+NameArray:0,Mac,4,Noto Rashi Hebrew Update Medium
+NameArray:0,Win,1,Noto Rashi Hebrew Med
+NameArray:0,Win,16,Noto Rashi Hebrew Update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoRashiHebrewUpdate-Thin
+FamilyName:Noto Rashi Hebrew Update
+StyleName:Thin
+MenuName:Noto Rashi Hebrew Thin
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Noto Rashi Hebrew Update Thin
+FamilyNameNative:
+StyleNameNative:Thin
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoRashiHebrewUpdate-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15176
+FileModTime:649533108
+NameArray:0,Mac,4,Noto Rashi Hebrew Update Thin
+NameArray:0,Win,1,Noto Rashi Hebrew Thin
+NameArray:0,Win,16,Noto Rashi Hebrew Update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-Black
+FamilyName:Noto Sans Hebrew update
+StyleName:Black
+MenuName:Noto Sans Hebrew Blk
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Noto Sans Hebrew update Black
+FamilyNameNative:
+StyleNameNative:Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15508
+FileModTime:649533131
+NameArray:0,Mac,4,Noto Sans Hebrew update Black
+NameArray:0,Win,1,Noto Sans Hebrew Blk
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-Bold
+FamilyName:Noto Sans Hebrew update
+StyleName:Bold
+MenuName:Noto Sans Hebrew update
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Noto Sans Hebrew update Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15208
+FileModTime:649533133
+NameArray:0,Mac,4,Noto Sans Hebrew update Bold
+NameArray:0,Win,1,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-Condensed
+FamilyName:Noto Sans Hebrew update
+StyleName:Condensed
+MenuName:Noto Sans Hebrew Cond
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Noto Sans Hebrew update Condensed
+FamilyNameNative:
+StyleNameNative:Condensed
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-Condensed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15968
+FileModTime:649533132
+NameArray:0,Mac,18,Noto Sans Hebrew update Cond
+NameArray:0,Mac,4,Noto Sans Hebrew update Condensed
+NameArray:0,Win,1,Noto Sans Hebrew Cond
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-CondensedBlack
+FamilyName:Noto Sans Hebrew update
+StyleName:Condensed Black
+MenuName:Noto Sans Hebrew Cond Blk
+StyleBits:0
+WeightClass:900
+WidthClass:3
+AngleClass:0
+FullName:Noto Sans Hebrew update Condensed Black
+FamilyNameNative:
+StyleNameNative:Condensed Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-CondensedBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16248
+FileModTime:649533131
+NameArray:0,Mac,18,Noto Hebrew update Cond Black
+NameArray:0,Mac,4,Noto Sans Hebrew update Condensed Black
+NameArray:0,Win,1,Noto Sans Hebrew Cond Blk
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-CondensedBold
+FamilyName:Noto Sans Hebrew update
+StyleName:Condensed Bold
+MenuName:Noto Sans Hebrew Cond
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Noto Sans Hebrew update Condensed Bold
+FamilyNameNative:
+StyleNameNative:Condensed Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-CondensedBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16116
+FileModTime:649533131
+NameArray:0,Mac,18,Noto Sans Hebrew update Cond Bd
+NameArray:0,Mac,4,Noto Sans Hebrew update Condensed Bold
+NameArray:0,Win,1,Noto Sans Hebrew Cond
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-CondensedThin
+FamilyName:Noto Sans Hebrew update
+StyleName:Condensed Thin
+MenuName:Noto Sans Hebrew Cond Thin
+StyleBits:0
+WeightClass:100
+WidthClass:3
+AngleClass:0
+FullName:Noto Sans Hebrew update Condensed Thin
+FamilyNameNative:
+StyleNameNative:Condensed Thin
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-CondensedThin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15704
+FileModTime:649533131
+NameArray:0,Mac,18,Noto Hebrew update Cond Thin
+NameArray:0,Mac,4,Noto Sans Hebrew update Condensed Thin
+NameArray:0,Win,1,Noto Sans Hebrew Cond Thin
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-ExtraCondensed
+FamilyName:Noto Sans Hebrew update
+StyleName:ExtraCondensed
+MenuName:Noto Sans Hebrew ExtCond
+StyleBits:0
+WeightClass:400
+WidthClass:2
+AngleClass:0
+FullName:Noto Sans Hebrew update ExtraCondensed
+FamilyNameNative:
+StyleNameNative:ExtraCondensed
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-ExtraCondensed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15664
+FileModTime:649533133
+NameArray:0,Mac,18,Noto Sans Hebrew update ExCond
+NameArray:0,Mac,4,Noto Sans Hebrew update ExtraCondensed
+NameArray:0,Win,1,Noto Sans Hebrew ExtCond
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-ExtraCondensedBlack
+FamilyName:Noto Sans Hebrew update
+StyleName:ExtraCondensed Black
+MenuName:Noto Sans Hebrew ExtCond Blk
+StyleBits:0
+WeightClass:900
+WidthClass:2
+AngleClass:0
+FullName:Noto Sans Hebrew update ExtraCondensed Black
+FamilyNameNative:
+StyleNameNative:ExtraCondensed Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-ExtraCondensedBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16156
+FileModTime:649533133
+NameArray:0,Mac,18,Noto Hebrew update ExCond Black
+NameArray:0,Mac,4,Noto Sans Hebrew update ExtraCondensed Black
+NameArray:0,Win,1,Noto Sans Hebrew ExtCond Blk
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-ExtraCondensedBold
+FamilyName:Noto Sans Hebrew update
+StyleName:ExtraCondensed Bold
+MenuName:Noto Sans Hebrew ExtCond
+StyleBits:2
+WeightClass:700
+WidthClass:2
+AngleClass:0
+FullName:Noto Sans Hebrew update ExtraCondensed Bold
+FamilyNameNative:
+StyleNameNative:ExtraCondensed Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-ExtraCondensedBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15728
+FileModTime:649533133
+NameArray:0,Mac,18,Noto Hebrew update ExCond Bd
+NameArray:0,Mac,4,Noto Sans Hebrew update ExtraCondensed Bold
+NameArray:0,Win,1,Noto Sans Hebrew ExtCond
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-ExtraCondensedSemiBold
+FamilyName:Noto Sans Hebrew update
+StyleName:ExtraCondensed SemiBold
+MenuName:Noto Sans Hebrew ExtCond SemBd
+StyleBits:0
+WeightClass:600
+WidthClass:2
+AngleClass:0
+FullName:Noto Sans Hebrew update ExtraCondensed SemiBold
+FamilyNameNative:
+StyleNameNative:ExtraCondensed SemiBold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-ExtraCondensedSemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16400
+FileModTime:649533132
+NameArray:0,Mac,18,Noto Hebrew update ExCond SmBd
+NameArray:0,Mac,4,Noto Sans Hebrew update ExtraCondensed SemiBold
+NameArray:0,Win,1,Noto Sans Hebrew ExtCond SemBd
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-ExtraCondensedThin
+FamilyName:Noto Sans Hebrew update
+StyleName:ExtraCondensed Thin
+MenuName:Noto Sans Hebrew ExtCond Thin
+StyleBits:0
+WeightClass:100
+WidthClass:2
+AngleClass:0
+FullName:Noto Sans Hebrew update ExtraCondensed Thin
+FamilyNameNative:
+StyleNameNative:ExtraCondensed Thin
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-ExtraCondensedThin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15456
+FileModTime:649533132
+NameArray:0,Mac,18,Noto Hebrew update ExCond Thin
+NameArray:0,Mac,4,Noto Sans Hebrew update ExtraCondensed Thin
+NameArray:0,Win,1,Noto Sans Hebrew ExtCond Thin
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-Regular
+FamilyName:Noto Sans Hebrew update
+StyleName:Regular
+MenuName:Noto Sans Hebrew update
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Noto Sans Hebrew update Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:14728
+FileModTime:647144887
+NameArray:0,Mac,4,Noto Sans Hebrew update Regular
+NameArray:0,Win,1,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-SemiBold
+FamilyName:Noto Sans Hebrew update
+StyleName:SemiBold
+MenuName:Noto Sans Hebrew SemBd
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Noto Sans Hebrew update SemiBold
+FamilyNameNative:
+StyleNameNative:SemiBold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15704
+FileModTime:649533131
+NameArray:0,Mac,4,Noto Sans Hebrew update SemiBold
+NameArray:0,Win,1,Noto Sans Hebrew SemBd
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-SemiCondensed
+FamilyName:Noto Sans Hebrew update
+StyleName:SemiCondensed
+MenuName:Noto Sans Hebrew SemCond
+StyleBits:0
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:Noto Sans Hebrew update SemiCondensed
+FamilyNameNative:
+StyleNameNative:SemiCondensed
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-SemiCondensed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15676
+FileModTime:649533132
+NameArray:0,Mac,18,Noto Sans Hebrew update SemiCond
+NameArray:0,Mac,4,Noto Sans Hebrew update SemiCondensed
+NameArray:0,Win,1,Noto Sans Hebrew SemCond
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-SemiCondensedBlack
+FamilyName:Noto Sans Hebrew update
+StyleName:SemiCondensed Black
+MenuName:Noto Sans Hebrew SemCond Blk
+StyleBits:0
+WeightClass:900
+WidthClass:4
+AngleClass:0
+FullName:Noto Sans Hebrew update SemiCondensed Black
+FamilyNameNative:
+StyleNameNative:SemiCondensed Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-SemiCondensedBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16172
+FileModTime:649533132
+NameArray:0,Mac,18,Noto Hebrew update SmCond Black
+NameArray:0,Mac,4,Noto Sans Hebrew update SemiCondensed Black
+NameArray:0,Win,1,Noto Sans Hebrew SemCond Blk
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-SemiCondensedBold
+FamilyName:Noto Sans Hebrew update
+StyleName:SemiCondensed Bold
+MenuName:Noto Sans Hebrew SemCond
+StyleBits:2
+WeightClass:700
+WidthClass:4
+AngleClass:0
+FullName:Noto Sans Hebrew update SemiCondensed Bold
+FamilyNameNative:
+StyleNameNative:SemiCondensed Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-SemiCondensedBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16060
+FileModTime:649533132
+NameArray:0,Mac,18,Noto Hebrew update SmCond Bd
+NameArray:0,Mac,4,Noto Sans Hebrew update SemiCondensed Bold
+NameArray:0,Win,1,Noto Sans Hebrew SemCond
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-SemiCondensedThin
+FamilyName:Noto Sans Hebrew update
+StyleName:SemiCondensed Thin
+MenuName:Noto Sans Hebrew SemCond Thin
+StyleBits:0
+WeightClass:100
+WidthClass:4
+AngleClass:0
+FullName:Noto Sans Hebrew update SemiCondensed Thin
+FamilyNameNative:
+StyleNameNative:SemiCondensed Thin
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-SemiCondensedThin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15728
+FileModTime:649533132
+NameArray:0,Mac,18,Noto Hebrew update SmCond Thin
+NameArray:0,Mac,4,Noto Sans Hebrew update SemiCondensed Thin
+NameArray:0,Win,1,Noto Sans Hebrew SemCond Thin
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSansHebrewupdate-Thin
+FamilyName:Noto Sans Hebrew update
+StyleName:Thin
+MenuName:Noto Sans Hebrew Thin
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Noto Sans Hebrew update Thin
+FamilyNameNative:
+StyleNameNative:Thin
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSansHebrewupdate-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15096
+FileModTime:649533130
+NameArray:0,Mac,4,Noto Sans Hebrew update Thin
+NameArray:0,Win,1,Noto Sans Hebrew Thin
+NameArray:0,Win,16,Noto Sans Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifHebrewupdate-Black
+FamilyName:Noto Serif Hebrew update
+StyleName:Black
+MenuName:Noto Serif Hebrew update Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Noto Serif Hebrew update Black
+FamilyNameNative:
+StyleNameNative:Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifHebrewupdate-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:18780
+FileModTime:649529542
+NameArray:0,Mac,4,Noto Serif Hebrew update Black
+NameArray:0,Win,1,Noto Serif Hebrew update Black
+NameArray:0,Win,16,Noto Serif Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifHebrewupdate-ExtraCondensed
+FamilyName:Noto Serif Hebrew update
+StyleName:ExtraCondensed
+MenuName:Noto Serif Hebrew update ExCond
+StyleBits:0
+WeightClass:400
+WidthClass:2
+AngleClass:0
+FullName:Noto Serif Hebrew update ExtraCondensed
+FamilyNameNative:
+StyleNameNative:ExtraCondensed
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifHebrewupdate-ExtraCondensed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:19600
+FileModTime:649529540
+NameArray:0,Mac,18,Noto Serif Hebrew update ExCond
+NameArray:0,Mac,4,Noto Serif Hebrew update ExtraCondensed
+NameArray:0,Win,1,Noto Serif Hebrew update ExCond
+NameArray:0,Win,16,Noto Serif Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifHebrewupdate-ExtraCondensedBlack
+FamilyName:Noto Serif Hebrew update
+StyleName:ExtraCondensed Black
+MenuName:Noto Serif Hebrew update ExCond Black
+StyleBits:0
+WeightClass:900
+WidthClass:2
+AngleClass:0
+FullName:Noto Serif Hebrew update ExtraCondensed Black
+FamilyNameNative:
+StyleNameNative:ExtraCondensed Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifHebrewupdate-ExtraCondensedBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:19632
+FileModTime:649529541
+NameArray:0,Mac,18,Noto Serif Hebrew update ExCond Black
+NameArray:0,Mac,4,Noto Serif Hebrew update ExtraCondensed Black
+NameArray:0,Win,1,Noto Serif Hebrew update ExCond Black
+NameArray:0,Win,16,Noto Serif Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifHebrewupdate-ExtraCondensedSemiBold
+FamilyName:Noto Serif Hebrew update
+StyleName:ExtraCondensed SemiBold
+MenuName:Noto Serif Hebrew update ExCond SmBd
+StyleBits:0
+WeightClass:600
+WidthClass:2
+AngleClass:0
+FullName:Noto Serif Hebrew update ExtraCondensed SemiBold
+FamilyNameNative:
+StyleNameNative:ExtraCondensed SemiBold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifHebrewupdate-ExtraCondensedSemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:20552
+FileModTime:649529541
+NameArray:0,Mac,18,Noto Serif Hebrew update ExCond SmBd
+NameArray:0,Mac,4,Noto Serif Hebrew update ExtraCondensed SemiBold
+NameArray:0,Win,1,Noto Serif Hebrew update ExCond SmBd
+NameArray:0,Win,16,Noto Serif Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifHebrewupdate-ExtraCondensedThin
+FamilyName:Noto Serif Hebrew update
+StyleName:ExtraCondensed Thin
+MenuName:Noto Serif Hebrew update ExCond Thin
+StyleBits:0
+WeightClass:100
+WidthClass:2
+AngleClass:0
+FullName:Noto Serif Hebrew update ExtraCondensed Thin
+FamilyNameNative:
+StyleNameNative:ExtraCondensed Thin
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifHebrewupdate-ExtraCondensedThin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:19268
+FileModTime:649529540
+NameArray:0,Mac,18,Noto Serif Hebrew update ExCond Thin
+NameArray:0,Mac,4,Noto Serif Hebrew update ExtraCondensed Thin
+NameArray:0,Win,1,Noto Serif Hebrew update ExCond Thin
+NameArray:0,Win,16,Noto Serif Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifHebrewupdate-Regular
+FamilyName:Noto Serif Hebrew update
+StyleName:Regular
+MenuName:Noto Serif Hebrew update
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Noto Serif Hebrew update Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifHebrewupdate-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:19160
+FileModTime:647144934
+NameArray:0,Mac,4,Noto Serif Hebrew update Regular
+NameArray:0,Win,1,Noto Serif Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifHebrewupdate-SemiBold
+FamilyName:Noto Serif Hebrew update
+StyleName:SemiBold
+MenuName:Noto Serif Hebrew update
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Noto Serif Hebrew update SemiBold
+FamilyNameNative:
+StyleNameNative:SemiBold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifHebrewupdate-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:20340
+FileModTime:649529537
+NameArray:0,Mac,18,Noto Serif Hebrew update SmBold
+NameArray:0,Mac,4,Noto Serif Hebrew update SemiBold
+NameArray:0,Win,1,Noto Serif Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifHebrewupdate-Thin
+FamilyName:Noto Serif Hebrew update
+StyleName:Thin
+MenuName:Noto Serif Hebrew update Thin
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Noto Serif Hebrew update Thin
+FamilyNameNative:
+StyleNameNative:Thin
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifHebrewupdate-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:18636
+FileModTime:649529537
+NameArray:0,Mac,4,Noto Serif Hebrew update Thin
+NameArray:0,Win,1,Noto Serif Hebrew update Thin
+NameArray:0,Win,16,Noto Serif Hebrew update
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifRashiHebrew-Black
+FamilyName:Noto Serif Rashi Hebrew
+StyleName:Black
+MenuName:Noto Serif Hebrew Blk
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Noto Serif Rashi Hebrew Black
+FamilyNameNative:
+StyleNameNative:Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifRashiHebrew-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:12200
+FileModTime:598764968
+NameArray:0,Mac,4,Noto Serif Rashi Hebrew Black
+NameArray:0,Win,1,Noto Serif Hebrew Blk
+NameArray:0,Win,16,Noto Serif Rashi Hebrew
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NotoSerifRashiHebrew-Regular
+FamilyName:Noto Serif Rashi Hebrew
+StyleName:Regular
+MenuName:Noto Serif Rashi Hebrew
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Noto Serif Rashi Hebrew Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/NotoSerifRashiHebrew-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:13068
+FileModTime:598764968
+NameArray:0,Mac,4,Noto Serif Rashi Hebrew Regular
+NameArray:0,Win,1,Noto Serif Rashi Hebrew
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rubik-Black
+FamilyName:Rubik
+StyleName:Black
+MenuName:Rubik Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Rubik Black
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/Rubik-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131356
+FileModTime:459212400
+NameArray:0,Win,1,Rubik Black
+NameArray:0,Win,16,Rubik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rubik-Bold
+FamilyName:Rubik
+StyleName:Bold
+MenuName:Rubik
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Rubik Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/Rubik-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131940
+FileModTime:459212400
+NameArray:0,Win,1,Rubik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rubik-Light
+FamilyName:Rubik
+StyleName:Light
+MenuName:Rubik Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Rubik Light
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/Rubik-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:127272
+FileModTime:459212400
+NameArray:0,Win,1,Rubik Light
+NameArray:0,Win,16,Rubik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rubik-Regular
+FamilyName:Rubik
+StyleName:Regular
+MenuName:Rubik
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Rubik Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/Rubik-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131972
+FileModTime:459212400
+NameArray:0,Win,1,Rubik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rubik-SemiBold
+FamilyName:Rubik
+StyleName:SemiBold
+MenuName:Rubik SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Rubik SemiBold
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/Rubik-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131848
+FileModTime:459212400
+NameArray:0,Win,1,Rubik SemiBold
+NameArray:0,Win,16,Rubik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SBLHebrew
+FamilyName:SBL Hebrew
+StyleName:Regular
+MenuName:SBL Hebrew
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:SBL Hebrew
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Work/Clients/Google/NOTO_HEBREW/Testing file Folder/Document fonts/SBL_Hbrw.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:315092
+FileModTime:639398991
+NameArray:0,Mac,4,SBL Hebrew
+NameArray:0,Win,1,SBL Hebrew
+%EndFont
+
